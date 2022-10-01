@@ -21,7 +21,7 @@ ____Welcome____
  pip install mechanize
  cd $HOME 
 
- git clone https://github.com/HemtKhan/FB-CLONE
+ git clone https://github.com/HemtKhan/FG-CLONE
 ```
 #### RUN SCRIPT
 ```python
