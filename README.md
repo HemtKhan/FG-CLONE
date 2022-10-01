@@ -21,12 +21,12 @@ ____Welcome____
  pip install mechanize
  cd $HOME 
 
- git clone https://github.com/HemtKhan/Random
+ git clone https://github.com/HemtKhan/FB-CLONE
 ```
 #### RUN SCRIPT
 ```python
- cd Random
- python HEMAT.py
+ cd FG-CLONE
+ python FG.py
 ```
 
 
